@@ -9,7 +9,9 @@
 * If you’re not sure right away, tell them you need to think about it.
 
 
-## GIT Repos
+## GIT Repos:
+
+### Creating a online repo and linking it to a local repo
 * Create a repo on github.com first
 * * Get SSH link
 * Create a local folder, then git init on computer in the folder
@@ -17,5 +19,4 @@
 ``` javascript
 git remote add origin [Github SSH]
 ```
-
 
